@@ -1,0 +1,1 @@
+Here rather than break down by printer type, I will break it down based upon the extruder/hotend combo
