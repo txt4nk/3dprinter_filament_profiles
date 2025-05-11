@@ -1,3 +1,6 @@
+= 3D Printers and Filament Profiles
+:table-caption!: 
+
 This will be a collection of printer and filament profiles for printers I have, and the filaments I use.
 
 As I complete the filament profile and upload it here, the items in the below table will be changed to hyperlinks to that profile.
@@ -7,22 +10,27 @@ With the exception of the Creality K2+, all other profiles are for Orca Slicer. 
 At some point I might add profiles for other slicers, but for now Orca is my preferred slicer.
 
 .Filament Matrix
-[cols="1,1,1"]
+[cols="1,1"]
 |===
-| Printer | Filament Brand | Type   
-| Bambu X1C 
-| Fusion Filaments 
-| ASA 
-| 
-| 
-| HTPET+ 
-| 
-| 
-| ABS Matte 
-| 
-| 
-| ABS Gloss 
-| 
-| 
-| Easy ASA 
+| Brand | Model
+
+.2+| Bambu 
+| X1C 
+| A1 Mini
+
+| Creality
+| K2 Plus
+
+| FLSun
+| V400
+
+| Peopoly
+| Magenetox
+
+.2+| Prusa
+| XL
+| MK4
+
+
+
 |===

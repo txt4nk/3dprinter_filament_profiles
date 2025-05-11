@@ -1,0 +1,28 @@
+= Bambu Printers
+:table-caption!: 
+
+.Filament Matrix
+[cols="1,1,1"]
+|===
+| Printer | Filament Brand | Type
+
+.12+| Bambu X1C 
+.6+| Fusion Filaments 
+| ASA 
+| HTPET+ 
+| ABS Matte 
+| ABS Gloss 
+| Easy ASA
+| HT-PLA
+
+.3+| Polymaker
+| ASA
+| ABS
+| PLA Pro
+
+.3+| Ambrosia
+| ASA
+| ABS
+| PC-CF
+
+|===
