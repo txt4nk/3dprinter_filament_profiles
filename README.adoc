@@ -11,18 +11,18 @@ At some point I might add profiles for other slicers, but for now Orca is my pre
 |===
 | Printer | Filament Brand | Type   
 | Bambu X1C 
-a| Fusion Filaments 
-a| ASA 
+| Fusion Filaments 
+| ASA 
 | 
-a| 
-a| HTPET+ 
 | 
-a| 
-a| ABS Matte 
+| HTPET+ 
 | 
-a| 
-a| ABS Gloss 
 | 
-a| 
-a| Easy ASA 
+| ABS Matte 
+| 
+| 
+| ABS Gloss 
+| 
+| 
+| Easy ASA 
 |===
