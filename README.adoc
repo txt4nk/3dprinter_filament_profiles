@@ -14,7 +14,8 @@ At some point I might add profiles for other slicers, but for now Orca is my pre
 |===
 | Brand | Model
 
-.2+| Bambu 
+.3+| Bambu 
+| H2D
 | X1C 
 | A1 Mini
 
@@ -31,6 +32,9 @@ At some point I might add profiles for other slicers, but for now Orca is my pre
 | XL
 | MK4
 
+2+| Voron
+
+2+| Annex
 
 
 |===
