@@ -11,7 +11,7 @@
 | link:h2d/fusion/asa/README.adoc[ASA] 
 | link:h2d/fusion/htpet/README.adoc[HTPET+] 
 | link:h2d/fusion/absmatte/README.adoc[ABS Matte] 
-| link:h2d/fusion/absglsss/README.adoc[ABS Gloss] 
+| link:h2d/fusion/absgloss/README.adoc[ABS Gloss] 
 | link:h2d/fusion/easyasa/README.adoc[Easy ASA]
 | link:h2d/fusion/htpla/README.adoc[HT-PLA]
 
@@ -31,7 +31,7 @@
 | link:x1c/fusion/htpet/README.adoc[HTPET+] 
 | link:x1c/fusion/absmatte/README.adoc[ABS Matte]
 | link:x1c/fusion/absgloss/README.adoc[ABS Gloss]
-| link:x1c/fusion/easyabs/README.adoc[Easy ASA]
+| link:x1c/fusion/easyasa/README.adoc[Easy ASA]
 | link:x1c/fusion/htpla/README.adoc[HT-PLA]
 
 .3+| Polymaker
