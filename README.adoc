@@ -14,27 +14,27 @@ At some point I might add profiles for other slicers, but for now Orca is my pre
 |===
 | Brand | Model
 
-.3+| Bambu 
-| H2D
-| X1C 
-| A1 Mini
+.3+| link:printers/bambu/README.adoc[Bambu] 
+| link:printers/bambu/h2d/README.adoc[H2D]
+| link:printers/bambu/x1c/README.adoc[X1C] 
+| link:printers/bambu/a1-mini/README.adoc[A1 Mini]
 
-| Creality
-| K2 Plus
+| link:printers/creality/README.adoc[Creality]
+| link:printers/creality/k2-plus/README.adoc[K2 Plus]
 
-| FLSun
-| V400
+| link:printers/flsun/README.adoc[FLSun]
+| link:printers/flsun/v400/README.adoc[V400]
 
-| Peopoly
-| Magenetox
+| link:printers/peopoly/README.adoc[Peopoly]
+| link:printers/magnetox/README.adoc[Magenetox]
 
-.2+| Prusa
-| XL
-| MK4
+.2+| link:printers/prusa/README.adoc[Prusa]
+| link:printers/prusa/mk4/README.adoc[XL]
+| link:printers/prusa/xl/README.adoc[MK4]
 
-2+| Voron
+2+| link:printers/README.adoc[Voron]
 
-2+| Annex
+2+| link:printers/README.adoc[Annex]
 
 
 |===

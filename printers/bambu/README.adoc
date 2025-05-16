@@ -6,14 +6,14 @@
 |===
 | Printer | Filament Brand | Type
 
-.12+| Bambu X1C 
-.6+| Fusion Filaments 
-| ASA 
-| HTPET+ 
-| ABS Matte 
-| ABS Gloss 
-| Easy ASA
-| HT-PLA
+.12+| link:h2d/README.adoc[H2D]
+.6+| link:h2d/fusion/README.adoc[Fusion Filaments] 
+| link:h2d/fusion/asa/README.adoc[ASA] 
+| link:h2d/fusion/htpet/README.adoc[HTPET+] 
+| link:h2d/fusion/absmatte/README.adoc[ABS Matte] 
+| link:h2d/fusion/absglsss/README.adoc[ABS Gloss] 
+| link:h2d/fusion/easyasa/README.adoc[Easy ASA]
+| link:h2d/fusion/htpla/README.adoc[HT-PLA]
 
 .3+| Polymaker
 | ASA
@@ -24,5 +24,28 @@
 | ASA
 | ABS
 | PC-CF
+
+.12+| link:x1c/README.adoc[X1C] 
+.6+| link:x1c/fusion/README.adoc[Fusion Filaments] 
+| link:x1c/fusion/asa/README.adoc[ASA] 
+| link:x1c/fusion/htpet/README.adoc[HTPET+] 
+| link:x1c/fusion/absmatte/README.adoc[ABS Matte]
+| link:x1c/fusion/absgloss/README.adoc[ABS Gloss]
+| link:x1c/fusion/easyabs/README.adoc[Easy ASA]
+| link:x1c/fusion/htpla/README.adoc[HT-PLA]
+
+.3+| Polymaker
+| ASA
+| ABS
+| PLA Pro
+
+.3+| Ambrosia
+| ASA
+| ABS
+| PC-CF
+
+| link:a1-mini/README.adoc[A1 Mini]
+| link:a1-mini/fusion/README.adoc[Fusion Filaments]
+| link:a1-mini/fusion/htpla/README.adoc[HT-PLA]
 
 |===
