@@ -26,7 +26,7 @@ At some point I might add profiles for other slicers, but for now Orca is my pre
 | link:printers/flsun/v400/README.adoc[V400]
 
 | link:printers/peopoly/README.adoc[Peopoly]
-| link:printers/magnetox/README.adoc[Magenetox]
+| link:printers/magnetox/README.adoc[Magnetox]
 
 .2+| link:printers/prusa/README.adoc[Prusa]
 | link:printers/prusa/mk4/README.adoc[XL]
