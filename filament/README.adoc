@@ -1,0 +1,16 @@
+:table-caption!: 
+
+.Filament Matrix
+[cols="1,1"]
+|===
+| Brand | Model
+
+.5+| link:filament/fusion/README.adoc[Fusion Filaments] 
+| link:filament/fusion/htpla/README.adoc[HTPLA+]
+| link:filament/fusion/abs1.5/README.adoc[ABS 1.5] 
+| link:filament/fusion/abs2.0/README.adoc[ABS 2.0]
+| link:filament/fusion/asa/README.adoc[ASA]
+| link:filament/fusion/htpet/README.adoc[HTPET+]
+
+
+|===

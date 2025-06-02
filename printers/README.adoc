@@ -1,0 +1,36 @@
+:table-caption!: 
+
+.Printer Matrix
+[cols="1,1"]
+|===
+| Brand | Model
+
+.3+| link:printers/bambu/README.adoc[Bambu] 
+| link:printers/bambu/h2d/README.adoc[H2D]
+| link:printers/bambu/x1c/README.adoc[X1C] 
+| link:printers/bambu/a1-mini/README.adoc[A1 Mini]
+
+| link:printers/creality/README.adoc[Creality]
+| link:printers/creality/k2-plus/README.adoc[K2 Plus]
+
+| link:printers/flsun/README.adoc[FLSun]
+| link:printers/flsun/v400/README.adoc[V400]
+
+| link:printers/peopoly/README.adoc[Peopoly]
+| link:printers/magnetox/README.adoc[Magnetox]
+
+.2+| link:printers/prusa/README.adoc[Prusa]
+| link:printers/prusa/mk4/README.adoc[XL]
+| link:printers/prusa/xl/README.adoc[MK4]
+
+.3+| link:printers/sovol/README.adoc[Sovol]
+| link:printers/sovol/sv06plus/README.adoc[SV06+]
+| link:printers/sovol/sv08/README.adoc[SV08]
+| link:printers/sovol/zero/README.adoc[Zero]
+
+2+| link:printers/README.adoc[Voron]
+
+2+| link:printers/README.adoc[Annex]
+
+
+|===

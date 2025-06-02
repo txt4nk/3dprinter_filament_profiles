@@ -1,40 +1,11 @@
 = 3D Printers and Filament Profiles
-:table-caption!: 
 
 This will be a collection of printer and filament profiles for printers I have, and the filaments I use.
 
-As I complete the filament profile and upload it here, the items in the below table will be changed to hyperlinks to that profile.
-
-With the exception of the Creality K2+, all other profiles are for Orca Slicer.  At the time of this writing I am using version 2.3 on Linux, Mac and Windows, so I will ensure it works in all 3.
+With the exception of the Creality K2+ and Bambu H2D, all other profiles are for Orca Slicer.  At the time of this writing I am using version 2.3 on Linux, Mac and Windows, so I will ensure it works in all 3.
 
 At some point I might add profiles for other slicers, but for now Orca is my preferred slicer.
 
-.Filament Matrix
-[cols="1,1"]
-|===
-| Brand | Model
+link:printers/README.adoc[By Printer]
 
-.3+| link:printers/bambu/README.adoc[Bambu] 
-| link:printers/bambu/h2d/README.adoc[H2D]
-| link:printers/bambu/x1c/README.adoc[X1C] 
-| link:printers/bambu/a1-mini/README.adoc[A1 Mini]
-
-| link:printers/creality/README.adoc[Creality]
-| link:printers/creality/k2-plus/README.adoc[K2 Plus]
-
-| link:printers/flsun/README.adoc[FLSun]
-| link:printers/flsun/v400/README.adoc[V400]
-
-| link:printers/peopoly/README.adoc[Peopoly]
-| link:printers/magnetox/README.adoc[Magnetox]
-
-.2+| link:printers/prusa/README.adoc[Prusa]
-| link:printers/prusa/mk4/README.adoc[XL]
-| link:printers/prusa/xl/README.adoc[MK4]
-
-2+| link:printers/README.adoc[Voron]
-
-2+| link:printers/README.adoc[Annex]
-
-
-|===
+link:filament/README.adoc[By Filament]
