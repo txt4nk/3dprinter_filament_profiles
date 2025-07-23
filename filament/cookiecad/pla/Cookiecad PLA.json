@@ -1,0 +1,18 @@
+{
+    "default_filament_colour": [
+        "#8000FF"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_retraction_length": [
+        "0.88"
+    ],
+    "filament_settings_id": [
+        "Cookiecad PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Cookiecad PLA",
+    "version": "1.9.0.14"
+}

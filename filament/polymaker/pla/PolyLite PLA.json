@@ -1,0 +1,30 @@
+{
+    "additional_cooling_fan_speed": [
+        "90"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.96432"
+    ],
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_settings_id": [
+        "PolyLite PLA Grey @BBL P1P"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL P1P",
+    "name": "PolyLite PLA Grey @BBL P1P",
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.6.0.3"
+}

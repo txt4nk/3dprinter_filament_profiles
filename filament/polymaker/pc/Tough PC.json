@@ -1,0 +1,54 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "110"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "110"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_retraction_length": [
+        "0.9"
+    ],
+    "filament_settings_id": [
+        "Polymaker Tough PC Ben"
+    ],
+    "filament_vendor": [
+        "Polymaker Tough"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Bambu PC @BBL P1S",
+    "name": "Polymaker Tough PC Ben",
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "slow_down_min_speed": [
+        "2"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "1.9.0.23"
+}

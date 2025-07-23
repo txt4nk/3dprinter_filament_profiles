@@ -1,0 +1,42 @@
+{
+    "bottom_shell_layers": "5",
+    "bottom_shell_thickness": "1",
+    "enable_support": "1",
+    "flush_into_support": "0",
+    "from": "User",
+    "independent_support_layer_height": "0",
+    "inherits": "0.20mm Balanced Strength @BBL H2D",
+    "name": "0.20mm - Thomas (Diff Support Mat.)",
+    "print_extruder_id": [
+        "1",
+        "1",
+        "2",
+        "2"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "0.20mm - Thomas (Diff Support Mat.)",
+    "skeleton_infill_density": "20%",
+    "skin_infill_density": "20%",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "cubic",
+    "support_base_pattern_spacing": "2",
+    "support_bottom_interface_spacing": "0",
+    "support_bottom_z_distance": "0",
+    "support_interface_bottom_layers": "4",
+    "support_interface_filament": "3",
+    "support_interface_pattern": "rectilinear_interlaced",
+    "support_interface_spacing": "0",
+    "support_interface_top_layers": "4",
+    "support_object_xy_distance": "0.5",
+    "support_on_build_plate_only": "1",
+    "support_top_z_distance": "0",
+    "support_type": "normal(auto)",
+    "version": "2.1.0.15",
+    "wall_generator": "arachne",
+    "wall_loops": "3"
+}
